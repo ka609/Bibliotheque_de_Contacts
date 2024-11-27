@@ -1,0 +1,16 @@
+# ninja log v6
+1381	9187	7541876743369839	Bibliotheque_de_Contacts_autogen/timestamp	91939632f8013149
+647	4147	7541895713520880	C:/Users/Kassongo Moussa/Documents/Bibliotheque_de_Contacts/build-Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee03cdc3d11f0402
+1381	9187	7541876743369839	Bibliotheque_de_Contacts_autogen/mocs_compilation.cpp	91939632f8013149
+1381	9187	7541876743369839	C:/Users/Kassongo Moussa/Documents/Bibliotheque_de_Contacts/build-Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Bibliotheque_de_Contacts_autogen/timestamp	91939632f8013149
+9281	90084	7541876750359772	CMakeFiles/Bibliotheque_de_Contacts.dir/mainwindow.cpp.obj	b3b98fdbfde17c97
+1381	9187	7541876743369839	C:/Users/Kassongo Moussa/Documents/Bibliotheque_de_Contacts/build-Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Bibliotheque_de_Contacts_autogen/mocs_compilation.cpp	91939632f8013149
+9268	89994	7541876750230011	CMakeFiles/Bibliotheque_de_Contacts.dir/main.cpp.obj	bdbe6ebee5a7181c
+9246	90033	7541876750019807	CMakeFiles/Bibliotheque_de_Contacts.dir/Bibliotheque_de_Contacts_autogen/mocs_compilation.cpp.obj	21b5288f10c7e6f2
+90034	113383	7541877557899822	CMakeFiles/Bibliotheque_de_Contacts.dir/contact.cpp.obj	688346cb8a15009d
+89997	123618	7541877557529823	CMakeFiles/Bibliotheque_de_Contacts.dir/contactmanager.cpp.obj	5f243f152f920b96
+123619	129713	7541877893749981	Bibliotheque_de_Contacts.exe	81c7e962547202bd
+4150	29136	7541895960850872	build.ninja	13fef5008303bbc9
+527	2420	7541895977990903	C:/Users/Kassongo Moussa/Documents/Bibliotheque_de_Contacts/build-Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee03cdc3d11f0402
+194	1965	7541900778220726	C:/Users/Kassongo Moussa/Documents/Bibliotheque_de_Contacts/build-Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee03cdc3d11f0402
+86	1266	7541915927805709	C:/Users/Kassongo Moussa/Documents/Bibliotheque_de_Contacts/build-Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee03cdc3d11f0402

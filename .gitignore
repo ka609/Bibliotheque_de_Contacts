@@ -1,0 +1,67 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+# General build directories
+build/
+cmake-build-*/
+
+# Qt generated files
+*.prl
+*.app
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+/.qmake.cache
+/.qmake.stash
+
+# Qt Creator generated files
+*.pro.user*
+CMakeLists.txt.user*
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.temp
+*.~*
+*.swp
+
+# Windows specific files
+Thumbs.db
+*.res
+*.rc
+*.dll
+*.exe
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
+
+# MinGW generated files
+*.Debug
+*.Release
+
+# Python byte code
+*.pyc
+
+# Documentation files
+rapport.pdf
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# IDE-specific folders
+.idea/
+.vscode/
