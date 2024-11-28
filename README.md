@@ -1,6 +1,6 @@
 # Bibliothèque de Gestion de Contacts
 
-![Logo](https://via.placeholder.com/150) <!-- Remplacez ce lien par un logo si disponible -->
+![Logo](https://cdn-icons-png.flaticon.com/512/847/847969.png) <!-- Remplacez avec une image locale si nécessaire -->
 
 ## Description
 
